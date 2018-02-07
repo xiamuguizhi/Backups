@@ -68,7 +68,7 @@ Psiphon（赛风） | 适用于 Windows 和移动设备的不经审查的互�
 
 [官方镜像下载](https://s3.amazonaws.com/psiphon/web/mjr4-p23r-puwl/zh/download.html)（[Windows系统平台](https://s3.amazonaws.com/psiphon/web/mjr4-p23r-puwl/psiphon3.exe)/[Android系统平台](https://s3.amazonaws.com/psiphon/web/mjr4-p23r-puwl/PsiphonAndroid.apk)/[iOS系统平台](https://itunes.apple.com/us/app/psiphon-browser/id1193362444)）
 
-Lantern [蓝灯自由上网工具] https://getlantern.org/
+Lantern [蓝灯自由上网工具] https://getlantern.org/zh_CN/
 
 官方下载 https://github.com/getlantern/lantern
 
