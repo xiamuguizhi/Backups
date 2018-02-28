@@ -1,4 +1,4 @@
-本站点用于提供VPN网络翻墙代理软件在中国大陆地区的镜像加速下载
+本页面用于提供VPN网络翻墙代理软件在中国大陆地区的镜像加速下载
 
 归属于『世界信息互通联盟』旗下，
 
@@ -11,7 +11,7 @@
 
 APKPure应用市场（下载Google Play应用）.安卓（Android）系统应用软件
 
-https://apkpure.com/cn
+https://apkpure.com/cn/
 
 [镜像下载](https://coding.net/u/Download-Mirrors/p/APKPure/git/raw/master/APKPure_v2.7.3.apk) APKPure_v2.7.3（发布于2018年2月11日）
 
