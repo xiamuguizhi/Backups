@@ -72,7 +72,7 @@ Lantern [蓝灯自由上网工具] https://getlantern.org/zh_CN/
 
 官方下载 https://github.com/getlantern/lantern
 
-镜像下载 Lantern 4.4.0（发布于2017年11月1日）
+镜像下载 Lantern 4.4.2（发布于2017年12月23日）
 
 [lantern-installer（Android）[蓝灯自由上网工具安卓版].apk](https://coding.net/u/Download-Mirrors/p/Lantern/git/raw/master/lantern-installer.apk)
 
