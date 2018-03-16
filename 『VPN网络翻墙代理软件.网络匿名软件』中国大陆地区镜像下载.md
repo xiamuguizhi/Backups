@@ -87,7 +87,7 @@ Lantern [蓝灯自由上网工具] https://getlantern.org/zh_CN/
 
 XX-Net https://github.com/XX-net/XX-Net
 
-[官方下载](https://github.com/XX-net/XX-Net/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/XX-Net/git/raw/master/XX-Net-3.10.4.zip) XX-Net-3.10.4（发布于2018年2月17日）
+[官方下载](https://github.com/XX-net/XX-Net/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/XX-Net/git/raw/master/XX-Net-3.11.1.zip) XX-Net-3.11.1（发布于2018年6月16日）
 
 
 自由门（Freegate）http://dongtaiwang.com/loc/download.php
