@@ -72,7 +72,7 @@ Lantern [蓝灯自由上网工具] https://getlantern.org/zh_CN/
 
 官方下载 https://github.com/getlantern/lantern
 
-镜像下载 Lantern 4.4.2（发布于2017年12月23日）
+镜像下载 Lantern 4.5.7（发布于2018年3月23日）
 
 [lantern-installer（Android）[蓝灯自由上网工具安卓版].apk](https://coding.net/u/Download-Mirrors/p/Lantern/git/raw/master/lantern-installer.apk)
 
@@ -87,7 +87,7 @@ Lantern [蓝灯自由上网工具] https://getlantern.org/zh_CN/
 
 XX-Net https://github.com/XX-net/XX-Net
 
-[官方下载](https://github.com/XX-net/XX-Net/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/XX-Net/git/raw/master/XX-Net-3.11.1.zip) XX-Net-3.11.1（发布于2018年3月16日）
+[官方下载](https://github.com/XX-net/XX-Net/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/XX-Net/git/raw/master/XX-Net-3.11.4.zip) XX-Net-3.11.4（发布于2018年3月24日）
 
 
 自由门（Freegate）http://dongtaiwang.com/loc/download.php
