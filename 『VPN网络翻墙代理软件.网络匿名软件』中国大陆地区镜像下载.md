@@ -39,11 +39,12 @@ Actinium（Android系统客户端）[官方下载](https://github.com/V2Ray-Andr
 Shadowsocks [影梭] https://shadowsocks.org/
 
 
-Shadowsocks for Android（Android系统客户端）[官方下载](https://github.com/shadowsocks/shadowsocks-android/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/shadowsocks-nightly-4.4.5.apk) Shadowsocks-nightly-4.4.5.apk（发布于2018年1月16日）
+Shadowsocks for Android（Android系统客户端）[官方下载](https://github.com/shadowsocks/shadowsocks-android/releases) [镜像下载](
+https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/shadowsocks--universal-4.5.1.apk) Shadowsocks-nightly-4.5.1.apk（发布于2018年3月6日）
 
-Shadowsocks for Windows（Windows系统客户端）[官方下载](https://github.com/shadowsocks/shadowsocks-windows/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/Shadowsocks-4.0.7.zip) Shadowsocks-4.0.7.exe（发布于2017年12月9日）
+Shadowsocks for Windows（Windows系统客户端）[官方下载](https://github.com/shadowsocks/shadowsocks-windows/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/Shadowsocks-4.0.9.zip) Shadowsocks-4.0.9.exe（发布于2018年3月14日）
 
-ShadowsocksX-NG（MacOS系统客户端）[官方下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksX-NG.1.7.0.zip) ShadowsocksX-NG.1.7.0.dmg（发布于2017年12月5日）
+ShadowsocksX-NG（MacOS系统客户端）[官方下载](https://github.com/shadowsocks/ShadowsocksX-NG/releases/) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksX-NG.1.7.1.zip) ShadowsocksX-NG.1.7.1.dmg（发布于2018年2月6日）
 
 Shadowsocks-Qt5 https://github.com/shadowsocks/shadowsocks-qt5/wiki/安装指南
 
