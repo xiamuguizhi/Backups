@@ -1,5 +1,5 @@
 
-Lantern [蓝灯自由上网工具] https://getlantern.org/zh_CN/
+Lantern [蓝灯] https://getlantern.org/zh_CN/
 
 官方下载 https://github.com/getlantern/lantern
 
