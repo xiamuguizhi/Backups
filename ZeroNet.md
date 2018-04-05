@@ -1,6 +1,6 @@
 P2P 分布式匿名网络软件
 
-ZeroNet - 使用 Bitcoin 加密和 BitTorrent 网络的去中心化网络 使用教程
+ZeroNet - 使用 Bitcoin 加密和 BitTorrent 网络的去中心化网络 [使用教程](https://github.com/HelloZeroNet/ZeroNet/blob/master/README-zh-cn.md)
 
 ZeroNet https://zeronet.io/zh（ https://github.com/HelloZeroNet/ZeroNet）
 
