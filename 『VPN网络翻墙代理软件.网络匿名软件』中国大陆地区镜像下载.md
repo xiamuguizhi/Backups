@@ -29,7 +29,7 @@ Psiphon（赛风）[下载链接](https://github.com/Download-Mirrors/Backups/bl
 
 P2P 分布式匿名网络软件 ZeroNet - 使用 Bitcoin 加密和 BitTorrent 网络的去中心化网络 [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/ZeroNet.md)
 
-P2P分布式文件同步工具Resilio（BitTorrent Sync）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/BitTorrent%20Sync.md)
+P2P分布式文件同步工具 Resilio（BitTorrent Sync）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/BitTorrent%20Sync.md)
 
 
 
