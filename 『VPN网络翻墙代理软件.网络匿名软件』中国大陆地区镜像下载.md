@@ -19,7 +19,7 @@ Shadowsocks [影梭]  [下载链接](https://github.com/Download-Mirrors/Backups
 
 XX-Net [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/XX-Net.md)
 
-Lantern [蓝灯自由上网工具]  [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Lantern.md)
+Lantern [蓝灯]  [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Lantern.md)
 
 萤火虫代理（Firefly Proxy）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Firefly%20Proxy.md)
 
