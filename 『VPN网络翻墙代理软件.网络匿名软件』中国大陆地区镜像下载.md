@@ -11,7 +11,25 @@ APKPure应用市场（下载Google Play应用）.安卓（Android）系统应用
 Proxy SwitchyOmega https://github.com/FelisCatus/SwitchyOmega/releases
 （用于浏览器网页代理设置进行管理和切换的扩展程序）
 
+网络代理软件
 
+V2ray [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/V2ray.md)
+
+Shadowsocks [影梭]  [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Shadowsocks.md)
+
+XX-Net [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/XX-Net.md)
+
+Lantern [蓝灯自由上网工具]  [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Lantern.md)
+
+萤火虫代理（Firefly Proxy）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Firefly%20Proxy.md)
+
+Psiphon（赛风）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Psiphon.md)
+
+网络匿名代理软件 基于Mozilla Firefox ESR浏览器制作的，配合Tor代理，可匿名访问网络！Tor【Tor Browser(洋葱浏览器)】[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Tor%20Browser.md)
+
+P2P 分布式匿名网络软件 ZeroNet - 使用 Bitcoin 加密和 BitTorrent 网络的去中心化网络 [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/ZeroNet.md)
+
+P2P分布式文件同步工具Resilio（BitTorrent Sync）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/BitTorrent%20Sync.md)
 
 
 
