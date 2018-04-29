@@ -3,7 +3,7 @@ Lantern [蓝灯] https://getlantern.org/zh_CN/
 
 官方下载 https://github.com/getlantern/lantern
 
-镜像下载 Lantern 4.5.7（发布于2018年3月23日）
+镜像下载 Lantern 4.5.9（发布于2018年4月27日）
 
 [lantern-installer（Android）[安卓版].apk](https://coding.net/u/Download-Mirrors/p/Lantern/git/raw/master/lantern-installer.apk)
 
