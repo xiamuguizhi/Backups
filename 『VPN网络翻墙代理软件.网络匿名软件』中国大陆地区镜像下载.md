@@ -19,11 +19,14 @@ Shadowsocks [影梭]  [下载链接](https://github.com/Download-Mirrors/Backups
 
 XX-Net [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/XX-Net.md)
 
-Lantern [蓝灯]  [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Lantern.md)
-
 萤火虫代理（Firefly Proxy）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Firefly%20Proxy.md)
 
+Lantern [蓝灯]  [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Lantern.md)
+
 Psiphon（赛风）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Psiphon.md)
+
+自由浏览 for Android（FreeBrowser）[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/FreeBrowser.md)
+
 
 网络匿名代理软件 基于Mozilla Firefox ESR浏览器制作的，配合Tor代理，可匿名访问网络！Tor【Tor Browser(洋葱浏览器)】[下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Tor%20Browser.md)
 
