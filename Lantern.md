@@ -1,5 +1,4 @@
-
-Lantern [蓝灯] https://getlantern.org/zh_CN/
+蓝灯（Lantern） https://getlantern.org/zh_CN/
 
 官方下载 https://github.com/getlantern/lantern
 
