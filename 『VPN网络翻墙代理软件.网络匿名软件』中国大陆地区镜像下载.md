@@ -13,8 +13,6 @@ Proxy SwitchyOmega https://github.com/FelisCatus/SwitchyOmega/releases
 
 网络代理软件
 
-V2ray [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/V2ray.md)
-
 Shadowsocks [影梭]  [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/Shadowsocks.md)
 
 XX-Net [下载链接](https://github.com/Download-Mirrors/Backups/blob/master/XX-Net.md)
