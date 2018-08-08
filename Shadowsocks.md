@@ -14,7 +14,6 @@ Shadowsocks-Qt5 https://github.com/shadowsocks/shadowsocks-qt5/wiki/安装指南
 
 （Shadowsocks-Qt5 for Windows系统客户端 [官方下载](https://github.com/shadowsocks/shadowsocks-qt5/releases/download/v2.9.0/ss-qt5-v2.9.0-win64.7z)/[镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ss-qt5-v2.9.0-win64.7z) ss-qt5-v2.9.0-win64发布于2017年7月24日）
 
-二维码扫描器 [镜像下载](https://coding.net/u/Download-Mirrors/p/Backups/git/raw/master/BarcodeScanner_ZXing_v4.7.6.apk) BarcodeScanner_ZXing_v4.7.6.apk
 
 ShadowsocksR（Shadowsocks分支版本）
 
@@ -26,3 +25,4 @@ ShadowsocksX-NG-R（MacOS系统客户端）[官方下载](https://github.com/qin
 
 SSCap（Shadowsocks分支版本）
 SSCap for Windows（Windows系统客户端）[官方下载](https://sourceforge.net/projects/sscap/) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/SSCapV4.0.rar) SSCapV4.0（发布于2017年6月16日）
+
