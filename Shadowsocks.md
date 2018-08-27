@@ -16,6 +16,7 @@ Shadowsocks-Qt5 https://github.com/shadowsocks/shadowsocks-qt5/wiki/安装指南
 
 
 ShadowsocksR（Shadowsocks分支版本）
+ShadowsocksRR for Android（Android系统客户端）[官方下载](https://github.com/shadowsocksrr/shadowsocksr-android/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksRR-v3.5.3.apk)  ShadowsocksRR-v3.5.3.apk（发布于2018年3月7日）
 
 ShadowsocksR for Android（Android系统客户端）[镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksR-v3.4.0.6.apk) ShadowsocksR-v3.4.0.6.apk（发布于2017年7月27日）
 
