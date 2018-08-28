@@ -4,10 +4,6 @@
 
 Tor【Tor Browser(洋葱浏览器)】https://www.torproject.org/
 
-Tor Browser – EFF mirror（Tor浏览器EFF镜像）https://tor.eff.org/
-
-Tor Browser - Github mirror（Tor浏览器Github镜像）https://github.com/TheTorProject/gettorbrowser
-
 Tor Browser - SourceForge mirror（Tor浏览器SourceForge镜像）https://sourceforge.net/projects/tor-browser.mirror/
 
 BridgeDB（Tor中继节点.网桥获取）https://bridges.torproject.org/
