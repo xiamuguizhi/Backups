@@ -17,13 +17,17 @@ Shadowsocks-Qt5 https://github.com/shadowsocks/shadowsocks-qt5/wiki/安装指南
 
 ShadowsocksR（Shadowsocks分支版本）
 
-ShadowsocksRR for Android（Android系统客户端）[官方下载](https://github.com/shadowsocksrr/shadowsocksr-android/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksRR-v3.5.3.apk)  ShadowsocksRR-v3.5.3.apk（发布于2018年3月7日）
-
 ShadowsocksR for Android（Android系统客户端）[镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksR-v3.4.0.6.apk) ShadowsocksR-v3.4.0.6.apk（发布于2017年7月27日）
 
 ShadowsocksR for Windows（Windows系统客户端）[镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksR-4.7.0.7z)ShadowsocksR-4.7.0.exe（发布于2017年7月27日）
 
 ShadowsocksX-NG-R（MacOS系统客户端）[官方下载](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksX-NG-v1.4.3-R8-build3.dmg) ShadowsocksX-NG-v1.4.3-R8-build3.dmg（发布于2018年2月3日）
+
+ShadowsocksRR（ShadowsocksR分支版本）
+ShadowsocksRR for Android（Android系统客户端）[官方下载](https://github.com/shadowsocksrr/shadowsocksr-android/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksRR-v3.5.3.apk) ShadowsocksRR-v3.5.3.apk（发布于2018年3月7日）
+
+ShadowsocksRR for Windows（Windows系统客户端）[官方下载](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/ShadowsocksRR-4.9.0.zip) ShadowsocksRR-4.9.0.exe（发布于2017年11月23日）
+
 
 SSCap（Shadowsocks分支版本）
 SSCap for Windows（Windows系统客户端）[官方下载](https://sourceforge.net/projects/sscap/) [镜像下载](https://coding.net/u/Download-Mirrors/p/SS-SSR/git/raw/master/SSCapV4.0.rar) SSCapV4.0（发布于2017年6月16日）
